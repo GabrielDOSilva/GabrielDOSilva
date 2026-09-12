@@ -94,21 +94,3 @@ Sistema de gerenciamento de biblioteca com persistência via JDBC puro.
 
 [🔗 Ver repositório](https://github.com/GabrielDOSilva/projBiblioteca)
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDOSilva&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDOSilva&layout=compact)
-
-</div>
-
----
-
-<div align="center">
-
-💬 Aberto a oportunidades como **Desenvolvedor Backend Júnior**
-
-</div>
