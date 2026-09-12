@@ -8,7 +8,7 @@ Desenvolvedor focado em backend com **Java** e **Spring Boot**, interessado em c
 
 Atualmente desenvolvo projetos práticos utilizando Java, Spring Boot, Spring Data JPA, MySQL e Git, buscando aplicar boas práticas de desenvolvimento e arquitetura.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-06749322b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
