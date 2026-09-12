@@ -9,7 +9,7 @@ Desenvolvedor focado em backend com **Java** e **Spring Boot**, interessado em c
 Atualmente desenvolvo projetos práticos utilizando Java, Spring Boot, Spring Data JPA, MySQL e Git, buscando aplicar boas práticas de desenvolvimento e arquitetura.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-06749322b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gosilva885@gmail.com)
 
 </div>
 
@@ -62,7 +62,7 @@ Controller → DTO → Service → Repository → MySQL
 
 **Stack:** Java · Spring Boot · Spring Data JPA · MySQL · Maven
 
-[🔗 Ver repositório](#)
+[🔗 Ver repositório](https://github.com/GabrielDOSilva/crud-produtos)
 
 ---
 
@@ -72,7 +72,7 @@ API REST de vendas com autenticação e autorização via Spring Security.
 
 **Stack:** Java · Spring Boot · Spring Security · Spring Data JPA
 
-[🔗 Ver repositório](#)
+[🔗 Ver repositório](https://github.com/GabrielDOSilva/dsmeta)
 
 ---
 
@@ -82,7 +82,7 @@ CRUD de usuários e departamentos, explorando relacionamentos JPA.
 
 **Stack:** Java · Spring Boot · Spring Data JPA
 
-[🔗 Ver repositório](#)
+[🔗 Ver repositório](https://github.com/GabrielDOSilva/UserDept-spring-api)
 
 ---
 
@@ -92,7 +92,7 @@ Sistema de gerenciamento de biblioteca com persistência via JDBC puro.
 
 **Stack:** Java · JDBC · SQL
 
-[🔗 Ver repositório](#)
+[🔗 Ver repositório](https://github.com/GabrielDOSilva/projBiblioteca)
 
 ---
 
@@ -100,8 +100,8 @@ Sistema de gerenciamento de biblioteca com persistência via JDBC puro.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDOSilva&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDOSilva&layout=compact)
 
 </div>
 
