@@ -96,22 +96,6 @@ Sistema de gerenciamento de biblioteca com persistência via JDBC puro.
 
 ---
 
-### 🍔 Sistema de Delivery *(em desenvolvimento)*
-
-Backend estilo iFood com gestão de clientes, restaurantes, cardápio, pedidos e entregadores — incluindo autenticação JWT e regras de negócio para atribuição de entregadores.
-
-**Stack:** Java · Spring Boot · Spring Security · JWT · MySQL
-
----
-
-### 💬 Bot de Atendimento WhatsApp *(em desenvolvimento)*
-
-Bot de atendimento via WhatsApp Business Cloud API, com fluxo de conversas controlado por máquina de estados.
-
-**Stack:** Java · Spring Boot · WhatsApp Business API
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
